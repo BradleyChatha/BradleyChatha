@@ -1,4 +1,4 @@
-![Bradley Chatha Rainbow Logo](https://imgur.com/KpDcKC4.gif)
+![Bradley Chatha Rainbow Logo](https://imgur.com/Q3Di8Wy.gif)
 
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/bradley-chatha/)
 
