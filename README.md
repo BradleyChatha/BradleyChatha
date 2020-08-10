@@ -1,6 +1,7 @@
 ![Bradley Chatha Rainbow Logo](https://imgur.com/Q3Di8Wy.gif)
 
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/bradley-chatha/)
+[![Personal Website](https://i.imgur.com/TnstTii.png])](https://bradley.chatha.dev/?pk_campaign=github&pk_kwd=icon)
 
 Welcome to my ~~project graveyard~~ Github! I've been programming as a hobby for 7 years, and am starting to work towards making it a career. I mostly enjoy writing tools/libraries for others to use, but also have experience with full-stack web development. I am almost completely self-taught; self-motivated, and I am a quick learner.
 
@@ -13,7 +14,7 @@ As a side project, I'm working on a small game, mostly so I can learn Vulkan.
 
 ## Blog
 
-I host a blog over at my [website](https://bradley.chatha.dev/Blog) which contains things like change logs for JCLI, and a metaprogramming tutorial for D.
+I host a blog over at my [website](https://bradley.chatha.dev/Blog?pk_campaign=github&pk_kwd=direct) which contains things like change logs for JCLI, and a metaprogramming tutorial for D.
 
 ## Communities
 
