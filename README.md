@@ -58,4 +58,4 @@ You can contact me via:
 
 * LinkedIn - https://www.linkedin.com/in/bradley-chatha/
 
-[![Bradley's github stats](https://github-readme-stats.vercel.app/api?username=SealabJaster&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bradley's github stats](https://github-readme-stats.vercel.app/api?username=BradleyChatha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
