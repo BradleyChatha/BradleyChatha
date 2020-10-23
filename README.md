@@ -13,7 +13,7 @@ For a more in depth overview of my skillset, please visit [my website](https://b
 
 My most notable projects will be listed on the [Projects](https://bradley.chatha.dev/Projects) page of my website, however here are a few more:
 
-[![JCLI](https://github-readme-stats.vercel.app/api/pin/?username=BradleyChatha&repo=jcli)](https://github.com/anuraghazra/github-readme-stats)
+[![JCLI](https://github-readme-stats.vercel.app/api/pin/?username=BradleyChatha&repo=jcli)](https://github.com/BradleyChatha/jcli)
 
 * 🖥️ [JCLI](https://github.com/SealabJaster/jcli/tree/master/source/jaster/cli) - A Command Line Interface library for the D programming language.
 * 🎮 [Farm Defense](https://github.com/BradleyChatha/farm_defense) - A small game I'm working on as a side project, mostly to learn Vulkan.
