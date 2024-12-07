@@ -1,26 +1,24 @@
 ![Bradley Chatha Logo](https://imgur.com/SI6m5hw.png)
 
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/bradley-chatha/)
-[![Personal Website](https://i.imgur.com/TnstTii.png])](https://bradley.chatha.dev/?pk_campaign=github&pk_kwd=icon)
 
-Welcome to my ~~project graveyard~~ Github! I've been programming as a hobby for 7 years, and am starting to work towards making it a career. I mostly enjoy writing tools/libraries for others to use, but also have experience with full-stack web development. I am almost completely self-taught; self-motivated, and I am a quick learner.
-
-For native applications, I primarily program in D, whereas for websites I like to use C# and the usual trifecta of HTML/CSS/JS (❤️ to Vue, TS, and SASS).
-
-For a more in depth overview of my skillset, please visit [my website](https://bradley.chatha.dev/?pk_campaign=github&pk_kwd=skillset) and also take a look at my [CV](https://github.com/BradleyChatha/CV/blob/master/build/cv_generic_modern.pdf).
+Welcome to my ~~project graveyard~~ Github! I've been programming as a hobby for 11 years, and currently work as a DevOps Engineer.
 
 ## Projects
 
-My most notable projects will be listed on the [Projects](https://bradley.chatha.dev/Projects) page of my website, however here are a few more:
+I'm really spotty when it comes to supporting my projects, but here's a few of my recent favourites:
 
-[![JCLI](https://github-readme-stats.vercel.app/api/pin/?username=BradleyChatha&repo=jcli)](https://github.com/BradleyChatha/jcli)
+* [Juptune](https://github.com/Juptune/juptune) - A medium-level asynchronous I/O library for D.
+* [Marmos](https://github.com/Juptune/marmos) - A semi-generic tool for generating documentation from D source code, written in D and TypeScript.
+* [deusex-timer](https://github.com/BradleyChatha/deusex-timer) - A speedrun timer for the original Deus Ex, written in D.
 
-* 🖥️ [JCLI](https://github.com/SealabJaster/jcli/tree/master/source/jaster/cli) - A Command Line Interface library for the D programming language.
-* 🎮 [Farm Defense](https://github.com/BradleyChatha/farm_defense) - A small game I'm working on as a side project, mostly to learn Vulkan.
+Some honorable mentions:
 
-## Blog
+* [Sdlang Initiative](https://github.com/SdlangInitiative) - Provides implementations for [sdlang](https://sdlang.org/) in various languages. Abandoned due to lack of interest (in both sdlang itself and my own interest).
+* [JCLI](https://github.com/BradleyChatha/jcli) - A metaprogramming-heavy CLI library for D. I let someone else half-take over since I lost interest, but it's functionally abandoned.
+* [Lumars](https://github.com/BradleyChatha/lumars) - Provides a more natural interface between Lua and D. Not fully abandoned, but not a priority for me to spend time on since I have other interesting projects instead.
 
-I host a blog over at my [website](https://bradley.chatha.dev/Blog?pk_campaign=github&pk_kwd=direct) which contains things like change logs for JCLI, and a metaprogramming tutorial for D.
+And then there's the rest of the my Github projects in their various states of completion. 99% of it is just historical trash, but there's a few interesting bits scattered about.
 
 ## Contact
 
